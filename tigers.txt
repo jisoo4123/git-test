@@ -1,6 +1,6 @@
 team: Tigers
 ​
-manager: Donald
+manager: mainTigers
 ​
 coach : Grace
 
@@ -9,7 +9,3 @@ members:
 - William
 - David
 - George
-<<<<<<< HEAD
-- Freddie
-=======
->>>>>>> add-coach
