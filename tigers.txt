@@ -1,6 +1,6 @@
 team: Tigers
 ​
-manager: mainTigers
+manager: mainSTTigers
 ​
 coach : to-MergeSTConlict-1Grace
 
