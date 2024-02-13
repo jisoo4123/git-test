@@ -2,7 +2,11 @@ team: Leopards
 ​
 manager: Luke
 ​
+<<<<<<< HEAD
 coach : MainOscar
+=======
+coach : conlict-2Oscar
+>>>>>>> 8331dd8 (Edit Leopards)
 
 members:
 - Linda
