@@ -5,7 +5,7 @@ manager: Luke
 <<<<<<< HEAD
 coach : MainOscar
 =======
-coach : conlict-2Oscar
+coach : Lupi
 >>>>>>> 8331dd8 (Edit Leopards)
 
 members:
