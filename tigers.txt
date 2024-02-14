@@ -12,3 +12,4 @@ members:
 - to-rebaseTyler
 - kim
 - Arachi
+- member1
